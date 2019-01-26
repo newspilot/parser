@@ -1,0 +1,17 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/newspilot/parser.git",
+  "author": "jld3103",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "rss-parser": "^3.6.2",
+    "ts-node": "^8.0.1",
+    "typescript": "^3.2.4"
+  },
+  "scripts": {
+    "start": "ts-node ."
+  }
+}

@@ -1,0 +1,15 @@
+[submodule "parser-tagesschau"]
+	path = parser-tagesschau
+	url = https://github.com/NewsPilot/parser-tagesschau
+[submodule "parser-heise-online"]
+	path = parser-heise-online
+	url = https://github.com/NewsPilot/parser-heise-online
+[submodule "parser-t3n-news"]
+	path = parser-t3n-news
+	url = https://github.com/NewsPilot/parser-t3n-news
+[submodule "parser-zeit"]
+	path = parser-zeit
+	url = https://github.com/newspilot/parser-zeit
+[submodule "parser-aachener-zeitung"]
+	path = parser-aachener-zeitung
+	url = https://github.com/newspilot/parser-aachener-zeitung
